@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-asecf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the inverse (arc) secant of a single-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
