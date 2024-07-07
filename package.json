@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@stdlib/math-base-napi-unary": "^0.2.1",
-    "@stdlib/math-base-special-acosf": "github:stdlib-js/math-base-special-acosf#main",
+    "@stdlib/math-base-special-acosf": "^0.1.0",
     "@stdlib/number-float64-base-to-float32": "^0.2.1",
     "@stdlib/utils-library-manifest": "^0.2.1"
   },
