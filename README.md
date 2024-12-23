@@ -203,6 +203,14 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/asec`][@stdlib/math/base/special/asec]</span><span class="delimiter">: </span><span class="description">compute the inverse (arc) secant of a number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/asech`][@stdlib/math/base/special/asech]</span><span class="delimiter">: </span><span class="description">compute the hyperbolic arcsecant of a number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/acosf`][@stdlib/math/base/special/acosf]</span><span class="delimiter">: </span><span class="description">compute the arccosine of a single-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -280,6 +288,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-asecf/main/LICENSE
 
 [arcsecant]: https://en.wikipedia.org/wiki/Inverse_trigonometric_functions
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/asec]: https://github.com/stdlib-js/math-base-special-asec
+
+[@stdlib/math/base/special/asech]: https://github.com/stdlib-js/math-base-special-asech
+
+[@stdlib/math/base/special/acosf]: https://github.com/stdlib-js/math-base-special-acosf
+
+<!-- </related-links> -->
 
 </section>
 
